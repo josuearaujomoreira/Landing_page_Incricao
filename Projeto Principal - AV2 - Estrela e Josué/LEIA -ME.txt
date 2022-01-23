@@ -1,24 +1,24 @@
 Landing_page de Eventos Religiosos
 ------------------------------------------------------------------------------------------
-Atividade 01{
+📌 Atividade 01{
   - Criando grupos e tarefas com suas durações
   - Criando calendário do projeto com feriados e dias de trabalho trabalhados e não - trabalhados
  };
 
-Atividade 02{
+📌 Atividade 02{
   - Criando relacionamento de dependêcias entre as tarefas
   - Verificando a influência da duração do projeto
   - Incluindo marco necessário
   ----------------------------------------------------------------------------------------
-  - DECRIÇÃO DOS RELACIONAMENTOS ENTRE AS TAREFAS{
+   📎 DECRIÇÃO DOS RELACIONAMENTOS ENTRE AS TAREFAS{
   
-        1° Grupo de Iniciação {
+        💡 1° Grupo de Iniciação {
 
           * Apresentação de ideias - SS - 2 dias de atraso -Modelagem de ideias
           * Modelagem de ideias - FS - 0 dias de atraso - Definição do produto
         };
         
-        2° Grupo de Planejamento {
+        📝 2° Grupo de Planejamento {
 
           * Definição do produto- FS- 0 dias de atraso - Levantamento de requisitos
           * Levantamento de requisitos - SS - 1 dia de atraso -Requisitos funcionais e não-funcionais
@@ -30,7 +30,7 @@ Atividade 02{
           * Estipular Prazos -SS - 01 dias de atraso - Análise de riscos
        };
        
-        3° Grupo de Execução :hammer:{
+        🔨 3° Grupo de Execução {
 
           * Construção da página inicial - SS - 02 dias de atraso - Construção do formulário de inscrição
           * Construção do formulário de inscrição -  SS - 02 dias de atraso - Elaboração da página admin
@@ -38,7 +38,7 @@ Atividade 02{
           * Estruturação do banco de dados - SF - 0 dias de atraso - teste usuário
         };
         
-        4° Grupo de Encerramento {
+        💰 4° Grupo de Encerramento {
 
           * Entrega do projeto - SS- 0 dias de atraso - Treinamento de user
           * Treinamento de user - SF - 0 dias de atraso - recibemento do pagamento
