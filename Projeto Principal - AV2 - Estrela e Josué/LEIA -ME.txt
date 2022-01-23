@@ -30,7 +30,7 @@ Atividade 02{
           * Estipular Prazos -SS - 01 dias de atraso - Análise de riscos
        };
        
-        3° Grupo de Execução {
+        3° Grupo de Execução :hammer:{
 
           * Construção da página inicial - SS - 02 dias de atraso - Construção do formulário de inscrição
           * Construção do formulário de inscrição -  SS - 02 dias de atraso - Elaboração da página admin
