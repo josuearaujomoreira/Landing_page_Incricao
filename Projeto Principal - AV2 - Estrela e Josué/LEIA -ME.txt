@@ -1,1 +1,11 @@
 Landing_page de Eventos Religiosos
+------------------------------------------------------------------------------------------
+Atividade 01{
+  - Criando grupos e tarefas com suas durações
+  - Criando calendário do projeto com feriados e dias de trabalho trabalhados e não - trabalhados
+    };
+
+Atividade 02{
+  - Criando relacionamento de dependêcias entre as tarefas
+  - Verificando a influência da duração do projeto
+  - Incluindo marco necessário
