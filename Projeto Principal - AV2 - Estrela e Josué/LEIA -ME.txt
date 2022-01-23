@@ -41,7 +41,7 @@ Landing_page de Eventos Religiosos
         💰 4° Grupo de Encerramento {
 
           * Entrega do projeto - SS- 0 dias de atraso - Treinamento de user
-          * Treinamento de user - SF - 0 dias de atraso - recibemento do pagamento
+          * Treinamento de user - SF - 0 dias de atraso - Recibemento do pagamento
         };
 };
   
