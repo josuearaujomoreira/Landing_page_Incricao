@@ -51,5 +51,10 @@ Landing_page de Eventos Religiosos
             - Incluindo recurso fixo
             - Incluindo o Project Owner com custo R$ 0,00
         };
+        
+        📌Atividade 04{
+            - Alocando recursos nas tarefas considerando a duração fixa
+            - Alocando mais de um recurso em uma tarefa
+        };
 };
   
