@@ -43,5 +43,13 @@ Landing_page de Eventos Religiosos
           * Entrega do projeto - SS- 0 dias de atraso - Treinamento de user
           * Treinamento de user - SF - 0 dias de atraso - Recibemento do pagamento
         };
+        
+        📌Atividade 03{
+            - Criando planilha de recursos
+            - Incluindo recursos do tipo material e trabalho
+            - Verificando a necessidade de incluir hora extra
+            - Incluindo recurso fixo
+            - Incluindo o Project Owner com custo R$ 0,00
+        };
 };
   
