@@ -16,38 +16,55 @@ Landing_page de Eventos Religiosos
   ----------------------------------------------------------------------------------------
    📎 DECRIÇÃO DOS RELACIONAMENTOS ENTRE AS TAREFAS{
   
-        💡 1° Grupo de Iniciação {
+        💡 1° Iniciação {
 
-          * Apresentação de ideias - SS - 2 dias de atraso -Modelagem de ideias
-          * Modelagem de ideias - FS - 0 dias de atraso - Definição do produto
+          * Modelagem de Ideias
+          * Definição do Produto
+          
         };
         
-        📝 2° Grupo de Planejamento {
+        📝 2° Planejamento e Análise {
 
-          * Definição do produto- FS- 0 dias de atraso - Levantamento de requisitos
-          * Levantamento de requisitos - SS - 1 dia de atraso -Requisitos funcionais e não-funcionais
-          * Requisitos funcionais e não-funcionais -SS -02 dias de atraso- Definição de escopo
-          * Definição de escopo - SS - 0 dias de atraso - Definição de ferramenta
-          * Definição de ferramenta -FS - 0 dias de atraso - Equipe Dev
-          * Equipe Dev - SS - 01 dias de atraso- Contabilização dos recursos
-          *  Contabilização dos recursos - SS - 01 dias de atraso - Estipular Prazos
-          * Estipular Prazos -SS - 01 dias de atraso - Análise de riscos
+          * Levantamento de requisitos
+          * Definição do escopo
+          * Análise de riscos
+
        };
        
-        🔨 3° Grupo de Execução {
+        🔨 3° Projeto {
 
-          * Construção da página inicial - SS - 02 dias de atraso - Construção do formulário de inscrição
-          * Construção do formulário de inscrição -  SS - 02 dias de atraso - Elaboração da página admin
-          * Elaboração da página admin -SS -02 dias de atraso - Estruturação do banco de dados
-          * Estruturação do banco de dados - SF - 0 dias de atraso - teste usuário
+          * Definir a liguagem a ser usada
+          * Definição das telas
+          * Definir banco de dados
+          * Definição das ferramentas
+
         };
         
-        💰 4° Grupo de Encerramento {
+        �😎 4° Implantação {
 
-          * Entrega do projeto - SS- 0 dias de atraso - Treinamento de user
-          * Treinamento de user - SF - 0 dias de atraso - Recibemento do pagamento
+          * Contrução da página inicial
+          * Construção do formulário de inscrição 
+          * Elaboração da página do administrador
+          * Alimentação do Banco de dados
+          
         };
         
+          ✅ 5° Teste {
+            
+          * Teste do Desenvolvedor
+          * Teste do Analista
+          * Teste do Usuário
+
+        };
+        
+          💰 6° Encerramento {
+            
+           * Entrega do projeto
+           * Treinamento de user
+           * Fim do Projeto
+           
+         };
+
         📌Atividade 03{
             - Criando planilha de recursos
             - Incluindo recursos do tipo material e trabalho
