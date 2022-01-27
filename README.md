@@ -66,6 +66,7 @@ Landing_page de Eventos Religiosos
          };
 
         📌Atividade 03{
+        
             - Criando planilha de recursos
             - Incluindo recursos do tipo material e trabalho
             - Verificando a necessidade de incluir hora extra
@@ -74,16 +75,28 @@ Landing_page de Eventos Religiosos
         };
         
         📌Atividade 04{
+        
             - Alocando recursos nas tarefas considerando a duração fixa
             - Alocando mais de um recurso em uma tarefa
         };
         
          📌Atividade 05{
+         
             - Definindo a acumulação dos custos dos recursos : início, fim e rateado
             - Verificando se a carga de trabalho está distribuída corretamente
             - Verificar se os custos das tarefas estão próximos da realidade
         };
         
+        📌Atividade 06{
+        
+           - Salvando Baseline
+           - Alterando três tarefas iniciando atrasadas: (Levantamento de Requisitos, Definir a linguagem a ser usada e construção da página inicial)
+           - Alterando três tarefas com duração maior do que o previsto: (DEfinição de tela(+2) dias, Alimentação do banco (+3) e Teste de usuário (+2)
+           - Alterando três tarefas com duração menor do que o previsto:(Apresentação de ideias(-1), Modelagem de Ideias (-2) e Definição do Produto (-1)
+           - Executando 50% do projeto
+           - Justificando atrasos nas notas
+           
+        };
 };
   
 
