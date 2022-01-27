@@ -77,6 +77,13 @@ Landing_page de Eventos Religiosos
             - Alocando recursos nas tarefas considerando a duração fixa
             - Alocando mais de um recurso em uma tarefa
         };
+        
+         📌Atividade 05{
+            - Definindo a acumulação dos custos dos recursos : início, fim e rateado
+            - Verificando se a carga de trabalho está distribuída corretamente
+            - Verificar se os custos das tarefas estão próximos da realidade
+        };
+        
 };
   
 
